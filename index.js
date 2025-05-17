@@ -82,7 +82,7 @@ bot.command('help', (ctx) => {
     for (const action of power_actions) {
         help_content += `\n/${action.bot_command}:\n${action.help_info}`
     }
-    help_content += '\npwrdelay:\nSet the delay time for power actions (shutdown/restart), default is 0.\nEx: /pwrdelay 30'
+    help_content += '\n/pwrdelay:\nSet the delay time for power actions (shutdown/restart), default is 0.\nEx: /pwrdelay 30'
 
     // Print help content
     ctx.reply(help_content);
