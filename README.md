@@ -15,3 +15,14 @@ Based on [J2TEAM/telegram-bot-shutdown](https://github.com/J2TEAM/telegram-bot-s
 5. Run the bot using `node index.js`
 6. Open a Telegram chat with the bot and send a command
 > Note: Type `/help` to get the list of available commands.
+
+## Contributing
+Contributions are welcome! Feel free to submit issues, improvements, or pull requests. If you want to add a new feature or an improvement, you can follow these steps:  
+
+   1. Fork this repository.
+   2. Create a new branch for your changes.
+   3. Commit your changes and push them to your fork.
+   4. Open a pull request for review.
+
+## License
+This repository is open-source and available under the **MIT License**.  
